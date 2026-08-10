@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: slot-svit-bonanza.github.io
+Sitemap: https://slot-svit-bonanza.github.io/sitemap.xml
